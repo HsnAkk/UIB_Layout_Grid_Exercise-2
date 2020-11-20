@@ -4,7 +4,7 @@ Grid layout example, which is NOT responsive.
 
 ![Desktop](./layout_images/desktop.png "desktop version")
 
-## Layout designs
+## Layout design
 
 ![Desktop](./layout_images/Blog_layout.png "desktop version")
 
